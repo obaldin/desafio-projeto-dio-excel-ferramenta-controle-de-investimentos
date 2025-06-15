@@ -2,9 +2,7 @@
 
 ## :books: Sobre
 
-Este desafio faz parte do bootcamp **Santander - Excel com Inteligência Artificial** promovido pelo **Santander** junto com a **DIO**. O desafio tem como objetivo **aplicar os conceitos de Excel no desenvolvimento de uma ferramenta prática de simulação de investimentos em fundos imobiliários**. 
-
-Através dela, poderá simular diferentes cenários de investimento de fundos imobiliário de forma simples e automatizada. Essa solução ajudará o usuário a ter uma visão clara do potencial de retorno, valor total investido, patrimônio acumulado e devidendos mensais.
+Este desafio faz parte do bootcamp **Santander - Excel com Inteligência Artificial** promovido pelo **Santander** junto com a **DIO**. O desafio tem como objetivo **aplicar os conceitos de Excel no desenvolvimento de uma ferramenta prática de simulação de investimentos em fundos imobiliários**. Através dela, o usuário poderá simular diferentes cenários de investimento de fundos imobiliário de forma simples e automatizada. Essa solução o ajudará a ter uma visão clara do potencial de retorno, valor total investido, patrimônio acumulado e devidendos mensais.
 
 ## :hammer_and_wrench: Tecnologias Utilizadas
 
